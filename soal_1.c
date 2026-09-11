@@ -5,11 +5,11 @@
 
 int main() {
     int a, b, c;
-
+    // Inputs
     scanf("%i", &a);
     scanf("%i", &b);
     scanf("%i", &c);
-    
+    // Process and Outputs
     if (a + b == c) {
         printf("+");
     }
